@@ -18,7 +18,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
     - Browse and familiarize yourself with the table of contents, <https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities>
 - Matthew K. Gold and Lauren F. Klein, “The Digital Humanities, Moment to Moment,” from *Debates in the Digital Humanities 2023* (2023), <https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/a7fa1e96-e1cb-4b98-9ce1-37a3152010db>
     - Browse and familiarize yourself with the table of contents, <https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023>
-- Select one of the other volumes in the Debates in Digital Humanities series whose titles do not include years listed on this page: <https://dhdebates.gc.cuny.edu/> (i.e., not 2012, 2016, 2019, or 2023). Read the introduction to your selected volume and browse the table of contents. To prepare for discussion of your selected volume in class, bring written answers to the following questions in your notes:
+- Select one of the other volumes in the Debates in Digital Humanities series whose titles do not include years listed on this page: <https://dhdebates.gc.cuny.edu/> (i.e., not 2012, 2016, 2019, or 2023). Read the introduction to your selected volume and browse the table of contents. To prepare for discussion of your selected volume in class, bring written answers to the following questions in your notes. See the [Course Requirements & Expectations page](https://lindsaythomas.net/engl6701s24/course-requirements-expectations.html){:target="_blank"} for more about your notes.:
     - How does this volume articulate its place within or adjacent to the digital humanities?
     - How does this volume work to constitute the field of the digital humanities?
 
@@ -59,7 +59,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Catherine D’Ignazio and Lauren F. Klein, Ch. 6 “The Numbers Don’t Speak for Themselves” from *Data Feminism* (2020), <https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3>
 - Sarah Allison, “Other People’s Data: Humanities Edition,” *Journal of Cultural Analytics* (2016), <https://culturalanalytics.org/article/11822>
 - [Lab 4: Python, part 1](https://lindsaythomas.net/engl6701s24/labs/lab-4.html){:target="_blank"}
-- Recommended: Katherine Bowers, “DSC \#6: Voyant's Big Day,” from *The Data-Sitters Club* (Sept 15, 2020), <https://datasittersclub.github.io/site/dsc6.html> 
+- Recommended: Katherine Bowers, “DSC \#6: Voyant's Big Day,” from *The Data-Sitters Club* (Sept 15, 2020), <https://datasittersclub.github.io/site/dsc6.html>
 
 ## Week 6: Data Analysis
 ### Wednesday, February 28
