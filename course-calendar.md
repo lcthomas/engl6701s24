@@ -24,7 +24,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 2: What is Data?
 ### Wednesday, January 31
-- **Please make sure you have created the Google drive folder you will use to house your course work and shared it with me by class time. Please share this folder with lct64 at cornell dot edu.** 
+- **Please make sure you have created the Google drive folder you will use to house your course work and shared it with me by class time. Please share this folder with lct64 at cornell dot edu.**
   - Geoffrey C. Bowker and Susan Leigh Star, “Introduction: To Classify is Human” and Ch 1 “Some Tricks of the Trade in Analyzing Classification,” from *Sorting Things Out: Classification and Its Consequences* (1999)
 - Daniel Rosenberg, “Data Before the Fact,” from *“Raw Data” is an Oxymoron* (2013)
 - Catherine D’Ignazio and Lauren F. Klein, Ch 2 “Collect, Analyze, Imagine, Teach,” from *Data Feminism* (2020), <https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef>
@@ -59,6 +59,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Catherine D’Ignazio and Lauren F. Klein, Ch. 6 “The Numbers Don’t Speak for Themselves” from *Data Feminism* (2020), <https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3>
 - Sarah Allison, “Other People’s Data: Humanities Edition,” *Journal of Cultural Analytics* (2016), <https://culturalanalytics.org/article/11822>
 - [Lab 4: Python, part 1](https://lindsaythomas.net/engl6701s24/labs/lab-4.html){:target="_blank"}
+- Recommended: Katherine Bowers, “DSC \#6: Voyant's Big Day,” from *The Data-Sitters Club* (Sept 15, 2020), <https://datasittersclub.github.io/site/dsc6.html> 
 
 ## Week 6: Data Analysis
 ### Wednesday, February 28
