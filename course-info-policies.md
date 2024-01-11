@@ -19,9 +19,9 @@ We will make use of multiple online systems and programs in this course: a cours
 2.	This will take you to a page where you will see our standing class Zoom link (which is titled “ENGL 6701 Humanities Data (2024SP)”). Click “Join” to join the meeting.
 3.	These meetings will not be recorded. I have enabled a waiting room for these meetings, which you will enter first when signing on. I will then let you into the Zoom room. If I do not let you in right away, this means I am meeting with another student.
 
-You will also create a Google drive or Microsoft OneDrive folder to house your course work for the semester, including materials for all labs, your lab notebook, final project abstract, and final project itself.
+You will also create a Google drive folder to house your course work for the semester, including materials for all labs, your lab notebook, final project abstract, and final project itself.
 
-- Submitting course work: Please create a folder into which you will place your assignments and all associated materials throughout the semester and share that folder with me. I will also submit my comments on your assignments to this shared folder.
+- Submitting course work: Please create a Google drive folder into which you will place your assignments and all associated materials throughout the semester and share that folder with me. I will also submit my comments on your assignments to this shared folder. If you do not have a Google account, you can sign up for one through Cornell: <https://it.cornell.edu/gsuite-student>.
 
 ## Digital CoLab at Olin Library
 Eliza Bettinger and Iliana Burgos form the Digital Scholarship Services team at Olin Library on campus. Every Tuesday during the semester, they host open office hours from 10 am to 1 pm in Olin Library 701 (<https://library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/co-working/>). You can use this time to co-work and/or to ask questions about class assignments.
