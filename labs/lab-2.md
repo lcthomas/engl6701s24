@@ -99,7 +99,7 @@ Here's how to get started:
 5. Making sure that you are replacing the quotation marks in the test string data with nothing, copy the output and paste that output into the "Test String" box. This is now our new input. Make sure to take note of what regular expression you used and what that regex did to your data in  your notes document.
 6. Your task is then to craft as many regex's as you need to complete our goal: we want all publication titles in one column, we want city and two-letter state abbreviations in another, and we want to eliminate all punctuation within both columns. Make sure to take note of each regex you use and its output/what it does to the data in your notes document.
 
-**Alternate lab for those who want to level up**
+### Alternate lab for those who want to level up
 Instead of working within [RegEx 101](https://regex101.com/){:target="_blank"}, you could work with regular expressions in Python or R. Complete the same task as described above, but do it in a Jupyter notebook or an R notebook.
 
 ## Lab Notebook Entry
