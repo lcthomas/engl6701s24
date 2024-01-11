@@ -12,7 +12,7 @@ We will make use of multiple online systems and programs in this course: a cours
 
 - Course site: We will use this course site to manage course information and our schedule. You will find an online version of our course calendar here (including the most up-to-date version of reading assignments and due dates), as well as an online version of our course syllabus. You will also find all course assignment sheets here, as well as links to online materials.
 
-- Canvas: Our course readings that are not otherwise freely available online will be available via our Canvas site. You will also be able to access our individual meeting Zoom link (see below) via Canvas.
+- Canvas: Our course readings that are not otherwise freely available online will be available via our [Canvas site](https://canvas.cornell.edu/courses/62495){:target="_blank"}. You will also be able to access our individual meeting Zoom link (see below) via Canvas.
 
 - Zoom: I will hold office hours in person, but for meetings outside of office hours, I can meet with you either in person or on Zoom. If we meet on Zoom, we will utilize a standing Zoom link for our meeting. You can find this link via our Canvas site. To meet with me on Zoom:
 1.	From our [Canvas site](https://canvas.cornell.edu/courses/62495){:target="_blank"}, click on “Zoom” in the left menu.
