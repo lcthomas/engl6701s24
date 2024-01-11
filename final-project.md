@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Notebook
+title: Final Project
 nav_order: 5
 ---
 # Final Project
