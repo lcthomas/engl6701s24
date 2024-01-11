@@ -76,7 +76,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Molly O'Hagan Hardy, “‘Black Printers’ on White Cards: Information Architecture in the Data Structures of the Early American Book Trades," from *Debates in the Digital Humanities 2016* (2016), <https://dhdebates.gc.cuny.edu/read/untitled/section/3c4a647f-8f61-48b6-ab41-5d6e765ac70f#ch31>
 - Matthew Kirschenbaum, Ch III “Understanding Assets: File, Version, and Format” and Ch IV “‘They Do Not See the Point of Us’: Academic Interests” from *Books.Files: Preservation of Digital Assets in the Contemporary Publishing Industry: A Report* (2020)
     - NOTE: I've placed the whole report in our course readings folder, but you only need to read chapters 3 and 4
-- [Discuss Lab 6](https://lindsaythomas.net/engl6701s24/labs/lab-6.html){:target="_blank"}
+- [Discuss Lab 6](https://lindsaythomas.net/engl6701s24/labs/lab-6.html){:target="_blank"}. Come to class having selected the dataset you will use for this lab.
 
 ## Week 8: Digital Archives
 
