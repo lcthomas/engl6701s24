@@ -30,7 +30,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Explore and familiarize yourself with the Trans-Atlantic Slave Trade Database, <https://www.slavevoyages.org/voyage/database>
 - Cadence Cordell, Quinn Dombrowski, and Glen Layne-Worthey, "DSC \#18: The Data-Sitters' HathiTrust Mistake," from *The Data-Sitters Club* (Nov 10, 2022), <https://datasittersclub.github.io/site/dsc18.html>
     - Read "Quinn: What's HathiTrust?," "Quinn: The corpus," "Cadence," and "Quinn" and skim the rest
-- [Lab 1: Spreadsheets](/labs/lab-1.md){:target="_blank"}
+- [Lab 1: Spreadsheets](/engl6701s24/labs/lab-1.md){:target="_blank"}
 
 Week 3: An Impossible View from Nowhere
 Wednesday, February 7
