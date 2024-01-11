@@ -44,7 +44,7 @@ Your final lab notebook entry should include the following things:
 2. A response to the following prompt: What do you see as the most important or significant aspect of this dataset for scholars, researchers, and/or teachers? You may think here in terms of the contributions this dataset makes to particular fields or disciplines and/or its interdisciplinary value or importance. Additionally, what do you see as the limits of this dataset? What is not included, and why, and what are the potential consequences of these omissions? You may also consider what it would take to remedy this situation: Is it possible to collect or include what has been overlooked, or to change or adjust the parameters of the dataset to include new or different things? Why or why not? How do the creators of this dataset describe or understand its limitations or boundaries?
 
 You should approach this assignment from the perspective of *description* and *observation* first, and *critique* second. This doesn't mean that you can't critique your selected dataset, but rather that you should seek to understand why your dataset is the way it is *before* you critique it. You should relate your discussion of this dataset to at least 1 reading from the course so far. Your discussion should be ~1000 words.
----
+
 ## Datasets
 I have not personally reviewed all of the datasets listed below, so please ask if you have any questions about a dataset you are thinking of using for this lab.
 
