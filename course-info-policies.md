@@ -21,7 +21,7 @@ We will make use of multiple online systems and programs in this course: a cours
 
 You will also create a Google drive folder to house your course work for the semester, including materials for all labs, your lab notebook, final project abstract, and final project itself.
 
-- Submitting course work: Please create a Google drive folder into which you will place your assignments and all associated materials throughout the semester and share that folder with me. I will also submit my comments on your assignments to this shared folder. If you do not have a Google account, you can sign up for one through Cornell: <https://it.cornell.edu/gsuite-student>.
+- Submitting course work: Please create a Google drive folder into which you will place your assignments and all associated materials throughout the semester and share that folder with me. Please share it with the following email address: **lct64 at cornell dot edu**. I will also submit my comments on your assignments to this shared folder. If you do not have a Google account, you can sign up for one through Cornell: <https://it.cornell.edu/gsuite-student>.
 
 ## Digital CoLab at Olin Library
 Eliza Bettinger and Iliana Burgos form the Digital Scholarship Services team at Olin Library on campus. Every Tuesday during the semester, they host open office hours from 10 am to 1 pm in Olin Library 701 (<https://library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/co-working/>). You can use this time to co-work and/or to ask questions about class assignments.
