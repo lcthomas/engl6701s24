@@ -46,7 +46,7 @@ Your final lab notebook entry should include the following things:
 You should approach this assignment from the perspective of *description* and *observation* first, and *critique* second. This doesn't mean that you can't critique your selected dataset, but rather that you should seek to understand why your dataset is the way it is *before* you critique it. You should relate your discussion of this dataset to at least 1 reading from the course so far. Your discussion should be ~1000 words.
 
 ## Datasets
-I have not personally reviewed all of the datasets listed below, so please ask if you have any questions about a dataset you are thinking of using for this lab.
+There are many, many scholarly datasets out there in the humanities -- more are being published every day, it seems. The datasets and venues listed below are just those I am personally familiar with, though I have not reviewed all of the datasets included in all of the venues listed below. This list is just a starting point. Please ask if you have any questions about a dataset you are thinking of using for this lab.
 
 * The [*Journal of Humanities Open Data*](https://openhumanitiesdata.metajnl.com/){:target="_blank"} regularly publishes scholarly datasets with accompanying data papers that describe these datasets. You may select one of the datasets published by this venue: <https://openhumanitiesdata.metajnl.com/articles>
   * One of the datasets listed on the ["Datasets" page of Melanie Walsh's Intro to Cultural Analytics course Jupyter book](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html){:target="_blank"}
