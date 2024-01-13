@@ -25,6 +25,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 2: What is Data?
 ### Wednesday, January 31
 - **Please make sure you have created the Google drive folder you will use to house your course work and shared it with me by class time. Please share this folder with lct64 at cornell dot edu.**
+- Class visit with Eliza Bettinger and Iliana Burgos
 - Geoffrey C. Bowker and Susan Leigh Star, “Introduction: To Classify is Human” and Ch 1 “Some Tricks of the Trade in Analyzing Classification,” from *Sorting Things Out: Classification and Its Consequences* (1999)
 - Daniel Rosenberg, “Data Before the Fact,” from *“Raw Data” is an Oxymoron* (2013)
 - Catherine D’Ignazio and Lauren F. Klein, Ch 2 “Collect, Analyze, Imagine, Teach,” from *Data Feminism* (2020), <https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef>
@@ -92,7 +93,7 @@ Wednesday, March 31, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
 - Miriam Posner and Marika Cifor, “Generative Tensions: Building a Digital Project on Early African American Race Film,” *American Quarterly* (2018)
     - Familiarize yourself with the Race Film Database, <https://zenodo.org/records/160585#.YcHs8SxOmLc>
 - The Colored Conventions Project:
-    - Listen to this podcast (~15 min): "The Colored Conventions Project Resurrects Disremembered History," <https://www.museumarchipelago.com/57
+    - Listen to this podcast (~15 min): "The Colored Conventions Project Resurrects Disremembered History," <https://www.museumarchipelago.com/57>
     - P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “Introduction to the Colored Conventions Movement”, <https://coloredconventions.org/introduction-movement/>
     - “CCP Principles”, <https://coloredconventions.org/about/principles/>
     - Familiarize yourself with the Digital Records section of the site, <https://coloredconventions.org/about-records/>
