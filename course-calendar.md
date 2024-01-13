@@ -140,8 +140,8 @@ Wednesday, March 31, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
 ### Wednesday, April 17
 - Andrew Piper, “Introduction” and “Evidence,” from *Can We Be Wrong?: The Problem of Textual Evidence in a Time of Data* (2020)
     - NOTE: I have given you the entire book in our course readings folder, but you only need to read Parts I and II for our class.
-- Katherine Bode, “What's the Matter with Computational Literary Studies?,” *Critical Inquiry* 49.4 (2023)
 - Gabi Kirilloff, “Computation as Context: New Approaches to the Close/Distant Reading Debate,” *College Literature* 49.1 (2022)
+- Katherine Bode, “What's the Matter with Computational Literary Studies?,” *Critical Inquiry* 49.4 (2023)
 
 ## Week 14: AI and the Digital Humanities
 ### Wednesday, April 24
