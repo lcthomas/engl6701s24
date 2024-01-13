@@ -25,7 +25,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 2: What is Data?
 ### Wednesday, January 31
 - **Please make sure you have created the Google drive folder you will use to house your course work and shared it with me by class time. Please share this folder with lct64 at cornell dot edu.**
-  - Geoffrey C. Bowker and Susan Leigh Star, “Introduction: To Classify is Human” and Ch 1 “Some Tricks of the Trade in Analyzing Classification,” from *Sorting Things Out: Classification and Its Consequences* (1999)
+- Geoffrey C. Bowker and Susan Leigh Star, “Introduction: To Classify is Human” and Ch 1 “Some Tricks of the Trade in Analyzing Classification,” from *Sorting Things Out: Classification and Its Consequences* (1999)
 - Daniel Rosenberg, “Data Before the Fact,” from *“Raw Data” is an Oxymoron* (2013)
 - Catherine D’Ignazio and Lauren F. Klein, Ch 2 “Collect, Analyze, Imagine, Teach,” from *Data Feminism* (2020), <https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef>
 - Explore and familiarize yourself with the Trans-Atlantic Slave Trade Database, <https://www.slavevoyages.org/voyage/database>
@@ -85,7 +85,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Douglass Day 2024
 Wednesday, March 31, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/annual-douglass-day-celebration/>
 
-## Wednesday, March 13
+### Wednesday, March 13
 - **Lab 6 due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 after this class)**
 - Cassidy Holahan, “Rummaging in the Dark: ECCO as Opaque Digital Archive,” *Eighteenth-Century Studies* 54.4 (Summer 2021)
 - Jennifer Guliano and Carolyn Heitman, “Difficult Heritage and The Complexities of Indigenous Data,” *Journal of Cultural Analytics* (2019), <https://culturalanalytics.org/article/11041-difficult-heritage-and-the-complexities-of-indigenous-data>
