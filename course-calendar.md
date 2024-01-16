@@ -84,7 +84,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 8: Digital Archives
 
 ### Douglass Day 2024
-Wednesday, March 31, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/annual-douglass-day-celebration/>
+Wednesday, March 13, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/annual-douglass-day-celebration/>
 
 ### Wednesday, March 13
 - **Lab 6 due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 after this class)**
