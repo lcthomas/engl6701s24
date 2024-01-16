@@ -90,8 +90,8 @@ Wednesday, March 31, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
 - **Lab 6 due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 after this class)**
 - Cassidy Holahan, “Rummaging in the Dark: ECCO as Opaque Digital Archive,” *Eighteenth-Century Studies* 54.4 (Summer 2021)
 - Jennifer Guliano and Carolyn Heitman, “Difficult Heritage and The Complexities of Indigenous Data,” *Journal of Cultural Analytics* (2019), <https://culturalanalytics.org/article/11041-difficult-heritage-and-the-complexities-of-indigenous-data>
-- Miriam Posner and Marika Cifor, “Generative Tensions: Building a Digital Project on Early African American Race Film,” *American Quarterly* (2018)
-    - Familiarize yourself with the Race Film Database, <https://zenodo.org/records/160585#.YcHs8SxOmLc>
+- Charline Jao, "'We Think Them Worthy': A Digital Collection of Poetry from New York's Nineteenth-Century Black Periodicals," *American Periodicals* 32.2 (2022)
+    - Familiarize yourself with the [Periodical Poets project](https://periodicalpoets.com/){:target="_blank"}
 - The Colored Conventions Project:
     - Listen to this podcast (~15 min): "The Colored Conventions Project Resurrects Disremembered History," <https://www.museumarchipelago.com/57>
     - P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “Introduction to the Colored Conventions Movement”, <https://coloredconventions.org/introduction-movement/>
@@ -99,6 +99,8 @@ Wednesday, March 31, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
     - Familiarize yourself with the Digital Records section of the site, <https://coloredconventions.org/about-records/>
     - Familiarize yourself with the CCP Corpus (download and explore), <https://coloredconventions.org/about-records/ccp-corpus/>
     - Familiarize yourself with the Exhibits section of the site (select at least 1 exhibit to skim/explore), <https://coloredconventions.org/exhibits/>
+- Recommended: Miriam Posner and Marika Cifor, “Generative Tensions: Building a Digital Project on Early African American Race Film,” *American Quarterly* (2018)
+    - Familiarize yourself with the Race Film Database, <https://zenodo.org/records/160585#.YcHs8SxOmLc>
 
 ## Week 9: Encounters with Digital Archives
 ### Wednesday, March 20
