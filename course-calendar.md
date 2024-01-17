@@ -117,6 +117,7 @@ Wednesday, March 13, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
     - How many items are in your archive?
     - What are the boundaries and limits (temporal, national, linguistic, etc) of your archive?
     - Look through a few example items/texts in your archive. How are these materials presented to the user? (Are images of originals provided? Transcriptions? Any metadata? Is the item and/or its metadata downloadable? etc)
+- Class visit with Charline Jao
 
 ## Week 10: Data and Computation in Literary and Cultural Studies, part 1
 ### Wednesday, March 27
