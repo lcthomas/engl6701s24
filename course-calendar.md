@@ -124,7 +124,8 @@ Wednesday, March 13, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
 - Ted Underwood, “A Genealogy of Distant Reading,” *Digital Humanities Quarterly* (2017), <http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html>
 - Richard Jean So, “Introduction” and “Ch. 1: Production: On White Publishing,” from *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction* (2020)
 - Laura B. McGrath, “‘Books About Race’: Commercial Publishing and Racial Formation in the 21st Century,” *New Literary History* 53.4 (2022)
-- Matt Warner, “A Queer Way of Counting: Bibliography and Computational Approaches to the Queer Novel,” *New Literary History* 53.4 (2022)
+- Lore De Greve and Gunther Martens, “#Bookstagram and Beyond. The Presence and Depiction of the Bachmann Literary Prize on Social Media (2007-2017),” *Digital Humanities Benelux Journal* (2021)
+- Recommended: Matt Warner, “A Queer Way of Counting: Bibliography and Computational Approaches to the Queer Novel,” *New Literary History* 53.4 (2022)
 
 ## Week 11
 ### Wednesday, April 3: NO CLASS -- SPRING BREAK
@@ -132,10 +133,11 @@ Wednesday, March 13, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
 ## Week 12: Data and Computation in Literary and Cultural Studies, part 2
 ### Wednesday, April 10
 - Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,” *Journal of Cultural Analytics*, April 20, 2021, <https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism>
-- Lore De Greve and Gunther Martens, “#Bookstagram and Beyond. The Presence and Depiction of the Bachmann Literary Prize on Social Media (2007-2017),” *Digital Humanities Benelux Journal* (2021)
 - Tess McNulty, “What's on Top of TikTok?”, *Public Books* (Nov 8, 2023), <https://www.publicbooks.org/whats-on-top-of-tiktok/>
 - Select 1 additional piece from the *Public Books* “Hacking the Culture Industries” series: <https://www.publicbooks.org/tag/hacking-the-culture-industries/>
     - To prepare for discussion of your piece, you should bring to class 2-3 substantial questions or observations that highlight details of interest from this reading, that connect this reading to other readings assigned for this class, or that probe the limits and boundaries of the reading. The goal is to prompt dialog, not test your understanding of the reading, so your questions should emerge from specific quotes or ideas from the text rather than from broad, general concepts.
+- Matthew Wilkens, "'Too isolated, too insular': American Literature and the World," *Journal of Cultural Analytics*, June 30, 20201, <https://culturalanalytics.org/article/25273-too-isolated-too-insular-american-literature-and-the-world>
+    - Class visit with Matthew Wilkens
 
 ### Friday, April 12: Final project abstract due
 
