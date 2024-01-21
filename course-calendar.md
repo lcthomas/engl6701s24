@@ -137,7 +137,7 @@ Wednesday, March 13, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu
 - Select 1 additional piece from the *Public Books* “Hacking the Culture Industries” series: <https://www.publicbooks.org/tag/hacking-the-culture-industries/>
     - To prepare for discussion of your piece, you should bring to class 2-3 substantial questions or observations that highlight details of interest from this reading, that connect this reading to other readings assigned for this class, or that probe the limits and boundaries of the reading. The goal is to prompt dialog, not test your understanding of the reading, so your questions should emerge from specific quotes or ideas from the text rather than from broad, general concepts.
 - Matthew Wilkens, "'Too isolated, too insular': American Literature and the World," *Journal of Cultural Analytics*, June 30, 20201, <https://culturalanalytics.org/article/25273-too-isolated-too-insular-american-literature-and-the-world>
-    - Class visit with Matthew Wilkens
+- Class visit with Matthew Wilkens
 
 ### Friday, April 12: Final project abstract due
 

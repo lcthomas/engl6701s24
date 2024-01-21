@@ -15,7 +15,7 @@ W 2:00-4:30 pm <br/>
 Morrill Hall 102
 
 ## Office Hours
-T 2-4 pm, and by appointment <br/>
+M 1-3 pm, and by appointment <br/>
 282 Goldwin Smith
 
 ## Weekly CoLab Office Hours
