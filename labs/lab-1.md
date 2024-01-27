@@ -26,7 +26,7 @@ We'll start in class with a discussion of an example of relatively straightforwa
 We'll also look at this spreadsheet using one of the tools listed above: [view the 1840 Census on WTFcsv](https://databasic.io/en/wtfcsv/results/61d8a486da7d150900acd9e6?submit=true){:target="_blank"} and talk about wtf is happening here.
 
 ## Two: Explore the Trans-Atlantic Slave Trade Dataset
-Then we'll move on to another example, one from our readings this week: the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/voyage/database){:target="_blank"}. We'll examine a downloaded spreadsheet of the data and discuss how we can use pivot tables to do initial explorations of large datasets.
+Then we'll move on to another example, one from our reading for next week: the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/voyage/database){:target="_blank"}. We'll examine a downloaded spreadsheet of the data and discuss how we can use pivot tables to do initial explorations of large datasets.
 
 We'll go through this together in class, but here's what you'll do:
 1. Download the Trans-Atlantic Slave Trade Database spreadsheet from Canvas. I've placed a copy of this spreadsheet in the lab 1 folder on Canvas (Files > labs > lab-1). The filename is "trans-atlantic-slave-trade.xlsx".
