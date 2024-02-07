@@ -49,9 +49,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Katherine Bowers and Quinn Dombrowski, “DSC \#2: Katia and the Phantom Corpus,” from *The Data-Sitters Club* (Dec 12, 2019), <https://datasittersclub.github.io/site/dsc2.html>
 - Melanie Walsh, “The Challenges and Possibilities of Social Media Data: New Directions in Literary Studies and the Digital Humanities,” from *Debates in the Digital Humanities 2023* (2023), <https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/a57b98ab-0f10-45d0-b205-3e563aab7ea8#ch18>
 - Katie Rawson and Trevor Muñoz, “Against Cleaning,” from *Debates in the Digital Humanities 2019* (2019), <https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23>
-- David C. Zentgraf, “What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text” (2015), <https://kunststube.net/encoding/>
 - [Lab 3: Exploratory Data Analysis with Voyant](https://lindsaythomas.net/engl6701s24/labs/lab-3.html){:target="_blank"}
     - **Please read through the "Why Voyant?" section of this lab and complete steps one, one and a half, and two prior to class this week.**
+- Recommended: David C. Zentgraf, “What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text” (2015), <https://kunststube.net/encoding/>
 
 ## Week 5: Data Curation, Context, and Re-use
 ### Wednesday, February 21
