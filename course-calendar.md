@@ -43,6 +43,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - [Lab 2: Regular Expressions](https://lindsaythomas.net/engl6701s24/labs/lab-2.html){:target="_blank"}
 
 ## Week 4: Collecting, Organizing, and Cleaning Data
+### Douglass Day 2024
+Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/annual-douglass-day-celebration/>
+
 ### Wednesday, February 14
 - **Lab 2 due**
 - Quinn Dombrowski, “DSC \#1: Quinn's Great Idea,” from *The Data-Sitters Club* (Nov 7, 2019), <https://datasittersclub.github.io/site/dsc1.html>
@@ -83,10 +86,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - [Discuss Lab 6](https://lindsaythomas.net/engl6701s24/labs/lab-6.html){:target="_blank"}. Come to class having selected the dataset you will use for this lab.
 
 ## Week 8: Digital Archives
-
-### Douglass Day 2024
-Wednesday, March 13, 12-3 pm, Olin Library 107, <https://www.library.cornell.edu/about/staff/central-departments/digital-scholarship/colab-programs/annual-douglass-day-celebration/>
-
 ### Wednesday, March 13
 - **Lab 6 due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 after this class)**
 - Cassidy Holahan, “Rummaging in the Dark: ECCO as Opaque Digital Archive,” *Eighteenth-Century Studies* 54.4 (Summer 2021)
