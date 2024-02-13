@@ -92,6 +92,9 @@ Using the [Voyant documentation](https://voyant-tools.org/docs/#!/guide/about){:
 
 **Question 5:** What tool(s) did you explore? What did this tool(s) help you to observe about this data and/or what did you learn about this data using this tool(s)? Alternatively, what did you *hope* to learn about this data using this tool and how (or why) did reality seem to fall short of that expectation? Write down short answers to these questions in your notes document.
 
+## Leveling Up?
+If you're interested in leveling this lab up, instead of completing part 7 and answering question 5 above, you could write a Python script (or a Jupyter notebook) that replicates the functioning of one of the panels/tools in Voyant (for example, write a function that will give you the relative frequency values of terms in each corpus used in today's lab). 
+
 ## Lab Notebook Entry
 ## Due:
 - By class on Wed, Feb 21
