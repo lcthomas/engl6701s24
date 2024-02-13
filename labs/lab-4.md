@@ -4,7 +4,7 @@ title: Lab 4
 nav_order: 4
 parent: Lab Notebook
 ---
-# Lab 4: Python, part 1
+# Lab 4: Python and Jupyter Notebooks, part 1
 To access the notebook we are using for today's lab, follow the first link below. Loading the notebook may take a few minutes; this is normal. The second link is for the lab's GitHub repository.
 - [Lab 4 Jupyter Notebook](https://mybinder.org/v2/gh/lcthomas/engl6701s24-lab4/HEAD?urlpath=lab%2Ftree%2Flab4.ipynb){:target="_blank"}
 - [Lab 4 GitHub repository](https://github.com/lcthomas/engl6701s24-lab4){:target="_blank"}
