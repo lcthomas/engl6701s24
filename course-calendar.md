@@ -63,7 +63,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 - Thomas Padilla, “On A Collections As Data Imperative,” Library of Congress (2017), <https://escholarship.org/uc/item/9881c8sv#main>
 - Catherine D’Ignazio and Lauren F. Klein, Ch. 6 “The Numbers Don’t Speak for Themselves” from *Data Feminism* (2020), <https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3>
 - Sarah Allison, “Other People’s Data: Humanities Edition,” *Journal of Cultural Analytics* (2016), <https://culturalanalytics.org/article/11822>
-- [Lab 4: Python and Jupyter Notebooks](https://lindsaythomas.net/engl6701s24/labs/lab-4.html){:target="_blank"}
+- [Lab 4: Python and Jupyter Notebook](https://lindsaythomas.net/engl6701s24/labs/lab-4.html){:target="_blank"}
 - Recommended: Katherine Bowers, “DSC \#6: Voyant's Big Day,” from *The Data-Sitters Club* (Sept 15, 2020), <https://datasittersclub.github.io/site/dsc6.html>
 
 ## Week 6: Data Analysis

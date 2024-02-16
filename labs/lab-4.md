@@ -4,7 +4,7 @@ title: Lab 4
 nav_order: 4
 parent: Lab Notebook
 ---
-# Lab 4: Python and Jupyter Notebooks, part 1
+# Lab 4: Python and Jupyter Notebook
 To access the notebook we are using for today's lab, follow the first link below. Loading the notebook may take a few minutes; this is normal. The second link is for the lab's GitHub repository.
 - [Lab 4 Jupyter Notebook](https://mybinder.org/v2/gh/lcthomas/engl6701s24-lab4/HEAD?urlpath=lab%2Ftree%2Flab4.ipynb){:target="_blank"}
 - [Lab 4 GitHub repository](https://github.com/lcthomas/engl6701s24-lab4){:target="_blank"}
@@ -50,6 +50,9 @@ Open up the Jupyter notebook we are using for this lab using the first link belo
 
 The lab 5 notebook only explains the aspects of Python syntax that you will need to complete this lab. For a much fuller introduction to Python basics such as variables, data types, etc., see [Walsh's textbook](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html){:target="_blank"}.
 
+## Interested in Leveling This Lab Up?
+If you want to level up, instead of completing \#1 below ("Short responses to questions 1-4 from the Lab 4 Jupyter notebook"), you could write a script (or a notebook) counting or tabulating some other feature or aspect of these EEBO files (e.g., the number of times another word is used, the publication dates, etc.). You should feel free to crib from the function provided in section 6 of the Lab 4 notebook as much as is useful (and, in doing so, perhaps improve on my disgustingly hacky code). You could either use the directory of `eebo-test` files included this lab's [GitHub repository](https://github.com/lcthomas/engl6701s24-lab4){:target="_blank"}) -- just 10 randomly selected texts -- or you could download all EEBO texts currently available for downloading here: <https://textcreationpartnership.org/faq/#faq05> If you elect to download these texts, though, keep in mind that this is *a lot* of texts, and any operations you perform on such a large collection (especially if those operations involve opening up each file) will take awhile. Be prepared to keep your laptop running.
+
 ## Lab Notebook Entry
 Due:
 - By class on Wed, February 28
@@ -57,6 +60,3 @@ Due:
 In your lab notebook entry for this week, you should include the following things:
 1. Short responses to questions 1-4 from the Lab 4 Jupyter notebook.
 2. A response to the following prompt: Discuss your experience exploring Python in this week's lab in relation to at least one of our readings assigned for next week (week 6). This discussion should be specific but it needn't be long (i.e., 2-4 paragraphs).
-
-## Interested in Leveling This Lab Up?
-If you want to level up, instead of completing \#1 above ("Short responses to questions 1-4 from the Lab 4 Jupyter notebook"), you could write a script (or a notebook) counting or tabulating some other feature or aspect of these EEBO files (e.g., the number of times another word is used, the publication dates, etc.). You should feel free to crib from the function provided in section 6 of the Lab 4 notebook as much as is useful (and, in doing so, perhaps improve on my disgustingly hacky code). You could either use the directory of `eebo-test` files included this lab's [GitHub repository](https://github.com/lcthomas/engl6701s24-lab4){:target="_blank"}) -- just 10 randomly selected texts -- or you could download all EEBO texts currently available for downloading here: <https://textcreationpartnership.org/faq/#faq05> If you elect to download these texts, though, keep in mind that this is *a lot* of texts, and any operations you perform on such a large collection (especially if those operations involve opening up each file) will take awhile. Be prepared to keep your laptop running.
