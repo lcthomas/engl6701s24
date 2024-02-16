@@ -27,7 +27,7 @@ To ensure this notebook works on your computer, you will need to make sure you h
 - re
 
 ## Research Context of Today's Lab
-Web scraping is a very useful skill for the purposes of data collection. If you understand the basics of web scraping, you can begin to gather information in a programmatic way from almost any website. Today's lab was inspired by Melanie Walsh's and Maria Antoniak's article [“The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism){:target="_blank"}, which we will read in week 12.
+Web scraping is a very useful skill for the purposes of data collection. If you understand the basics of web scraping, you can begin to gather information in a programmatic way from almost any website. Today's lab was inspired by Melanie Walsh's and Maria Antoniak's article [“The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism"](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism){:target="_blank"}, which we will read in week 12.
 
 To write their article, Walsh and Antoniak scraped data about books shelved as "classics" on [Goodreads](https://www.goodreads.com/){:target="_blank"}, as well as over 127,000 Goodreads reviews of these books. To collect this data, they created a scraper, which they uploaded to GitHub upon publication of their article so that others could use their code. You can find the scraper here: <https://github.com/maria-antoniak/goodreads-scraper>.
 
