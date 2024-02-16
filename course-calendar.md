@@ -63,7 +63,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 - Thomas Padilla, “On A Collections As Data Imperative,” Library of Congress (2017), <https://escholarship.org/uc/item/9881c8sv#main>
 - Catherine D’Ignazio and Lauren F. Klein, Ch. 6 “The Numbers Don’t Speak for Themselves” from *Data Feminism* (2020), <https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3>
 - Sarah Allison, “Other People’s Data: Humanities Edition,” *Journal of Cultural Analytics* (2016), <https://culturalanalytics.org/article/11822>
-- [Lab 4: Python, part 1](https://lindsaythomas.net/engl6701s24/labs/lab-4.html){:target="_blank"}
+- [Lab 4: Python and Jupyter Notebooks](https://lindsaythomas.net/engl6701s24/labs/lab-4.html){:target="_blank"}
 - Recommended: Katherine Bowers, “DSC \#6: Voyant's Big Day,” from *The Data-Sitters Club* (Sept 15, 2020), <https://datasittersclub.github.io/site/dsc6.html>
 
 ## Week 6: Data Analysis
@@ -73,7 +73,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 - Richard Jean So, “‘All Models are Wrong,’” *PMLA* (2017)
 - Taylor Arnold and Lauren Tilton, “New Data? The Role of Statistics in DH,” from *Debates in the Digital Humanities 2019* (2019), <https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24>
 - Laura Nelson, “Computational Grounded Theory: A Methodological Framework,” *Sociological Methods & Research* (2020)
-- [Lab 5: Python, part 2](https://lindsaythomas.net/engl6701s24/labs/lab-5.html){:target="_blank"}
+- [Lab 5: Web Scraping with Python](https://lindsaythomas.net/engl6701s24/labs/lab-5.html){:target="_blank"}
 
 ## Week 7: Digitization
 ### Wednesday, March 6
@@ -87,7 +87,6 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 
 ## Week 8: Digital Archives
 ### Wednesday, March 13
-- **Lab 6 due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 after this class)**
 - Cassidy Holahan, “Rummaging in the Dark: ECCO as Opaque Digital Archive,” *Eighteenth-Century Studies* 54.4 (Summer 2021)
 - Jennifer Guliano and Carolyn Heitman, “Difficult Heritage and The Complexities of Indigenous Data,” *Journal of Cultural Analytics* (2019), <https://culturalanalytics.org/article/11041-difficult-heritage-and-the-complexities-of-indigenous-data>
 - Charline Jao, "'We Think Them Worthy': A Digital Collection of Poetry from New York's Nineteenth-Century Black Periodicals," *American Periodicals* 32.2 (2022)
@@ -104,6 +103,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 
 ## Week 9: Encounters with Digital Archives
 ### Wednesday, March 20
+- **Lab 6 due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 after this class)**
 - Matthew Kirschenbaum, “Ch. 1: Archives Without Dust,” from *Bitstreams: The Future of Digital Literary Heritage* (2021)
 - Roopika Risam, “Ch 2: Colonial Violence and the Postcolonial Digital Archive” from *New Digital Worlds* (2019)
     - Familiarize yourself with the Early Caribbean Digital Archive, <https://ecda.northeastern.edu/>

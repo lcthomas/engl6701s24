@@ -39,7 +39,7 @@ Here is how to complete the description of your dataset:
 
 ## Lab Notebook Entry
 ### Due:
-- Wednesday, March 13
+- Wednesday, March 20
 
 Your final lab notebook entry should include the following things:
 1. A link to your copy of the dataset description template that you have filled out for your dataset (this version of the spreadsheet should be included in your shared Google drive folder).
