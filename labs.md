@@ -11,7 +11,7 @@ has_children: true
 - Lab 3: Wed, Feb 21 (Feedback on labs 1-3 after this class)
 - Lab 4: Wed, Feb 28
 - Lab 5: Wed, March 6
-- Lab 6: Wed, March 13 (Feedback on labs 4-6 after this class)
+- Lab 6: Wed, March 20 (Feedback on labs 4-6 after this class)
 
 During the first eight weeks of the semester, you will complete labs designed to introduce you to some basic technical skills and procedures that humanists who work with data might use. On most of these weeks (as marked in the syllabus), the last hour of each class period will be devoted to beginning the labs together in class. Two central goals of this course are to use our readings and discussions during these weeks to contextualize our applied work in labs, and to use our applied work in labs to enrich and enhance our understanding of concepts from our readings.
 
