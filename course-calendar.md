@@ -72,7 +72,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 - Benjamin M. Schmidt, “Do Digital Humanists Need to Understand Algorithms?” from *Debates in the Digital Humanities 2016* (2016), <https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48>
 - Richard Jean So, “‘All Models are Wrong,’” *PMLA* (2017)
 - Taylor Arnold and Lauren Tilton, “New Data? The Role of Statistics in DH,” from *Debates in the Digital Humanities 2019* (2019), <https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24>
-- Laura Nelson, “Computational Grounded Theory: A Methodological Framework,” *Sociological Methods & Research* (2020)
+- Laura Nelson, “Computational Grounded Theory: A Methodological Framework,” *Sociological Methods & Research* (2017)
 - [Lab 5: Web Scraping with Python](https://lindsaythomas.net/engl6701s24/labs/lab-5.html){:target="_blank"}
 
 ## Week 7: Digitization
