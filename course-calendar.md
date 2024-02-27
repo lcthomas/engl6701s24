@@ -101,10 +101,10 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 - Miriam Posner and Marika Cifor, “Generative Tensions: Building a Digital Project on Early African American Race Film,” *American Quarterly* (2018)
     - Familiarize yourself with the Race Film Database, <https://zenodo.org/records/160585#.YcHs8SxOmLc>
 -  You will be assigned one of the 3 above digital archives to focus on for this week's class. While you should broadly familiarize yourself with all 3 of the digital archives linked above (Periodical Poets, the Colored Conventions Project, and the Race Film Database), for your assigned archive you should bring to class written answers to the following questions:
-        - What materials comprise your archive?
-        - How many items are in your archive?
-        - What are the boundaries and limits (temporal, national, linguistic, etc) of your archive?
-        - Look through a few example items/texts in your archive. How are these materials presented to the user? (Are images of originals provided? Transcriptions? Any metadata? Is the item and/or its metadata downloadable? etc)
+    - What materials comprise your archive?
+    - How many items are in your archive?
+    - What are the boundaries and limits (temporal, national, linguistic, etc) of your archive?
+    - Look through a few example items/texts in your archive. How are these materials presented to the user? (Are images of originals provided? Transcriptions? Any metadata? Is the item and/or its metadata downloadable? etc)
 
 ## Week 9: Encounters with Digital Archives
 ### Wednesday, March 20
