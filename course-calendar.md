@@ -85,7 +85,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
     - NOTE: I've placed the whole report in our course readings folder, but you only need to read chapters 3 and 4
 - [Discuss Lab 6](https://lindsaythomas.net/engl6701s24/labs/lab-6.html){:target="_blank"}. Come to class having selected the dataset you will use for this lab.
 
-## Week 8: Digital Archives
+## Week 8: Digital Archives (/Databases?)
 ### Wednesday, March 13
 - Cassidy Holahan, “Rummaging in the Dark: ECCO as Opaque Digital Archive,” *Eighteenth-Century Studies* 54.4 (Summer 2021)
 - Jennifer Guliano and Carolyn Heitman, “Difficult Heritage and The Complexities of Indigenous Data,” *Journal of Cultural Analytics* (2019), <https://culturalanalytics.org/article/11041-difficult-heritage-and-the-complexities-of-indigenous-data>
@@ -100,6 +100,11 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
     - Familiarize yourself with the Exhibits section of the site (select at least 1 exhibit to skim/explore), <https://coloredconventions.org/exhibits/>
 - Miriam Posner and Marika Cifor, “Generative Tensions: Building a Digital Project on Early African American Race Film,” *American Quarterly* (2018)
     - Familiarize yourself with the Race Film Database, <https://zenodo.org/records/160585#.YcHs8SxOmLc>
+-  You will be assigned one of the 3 above digital archives to focus on for this week's class. While you should broadly familiarize yourself with all 3 of the digital archives linked above (Periodical Poets, the Colored Conventions Project, and the Race Film Database), for your assigned archive you should bring to class written answers to the following questions:
+        - What materials comprise your archive?
+        - How many items are in your archive?
+        - What are the boundaries and limits (temporal, national, linguistic, etc) of your archive?
+        - Look through a few example items/texts in your archive. How are these materials presented to the user? (Are images of originals provided? Transcriptions? Any metadata? Is the item and/or its metadata downloadable? etc)
 
 ## Week 9: Encounters with Digital Archives
 ### Wednesday, March 20
@@ -112,11 +117,6 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 - Benjamin Lee, “Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset,” *Digital Humanities Quarterly* 15.4 (2021), <http://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html>
     - Familiarize yourself with Newspaper Navigator, <https://labs.loc.gov/work/experiments/newspaper-navigator/>
     - Chronicling America database: <https://chroniclingamerica.loc.gov/>
-- You will be assigned one of the 3 above digital archives to focus on for this week's class. While you should broadly familiarize yourself with all 3 of the digital archives linked above (the Early Caribbean Digital Archive, The Papers of Thomas Jefferson archive, and Newspaper Navigator/Chronicling America), for your assigned archive you should bring to class written answers to the following questions:
-    - What materials comprise your archive?
-    - How many items are in your archive?
-    - What are the boundaries and limits (temporal, national, linguistic, etc) of your archive?
-    - Look through a few example items/texts in your archive. How are these materials presented to the user? (Are images of originals provided? Transcriptions? Any metadata? Is the item and/or its metadata downloadable? etc)
 - Class visit with Charline Jao
 
 ## Week 10: Data and Computation in Literary and Cultural Studies, part 1
