@@ -98,7 +98,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
     - Familiarize yourself with the Digital Records section of the site, <https://coloredconventions.org/about-records/>
     - Familiarize yourself with the CCP Corpus (download and explore), <https://coloredconventions.org/about-records/ccp-corpus/>
     - Familiarize yourself with the Exhibits section of the site (select at least 1 exhibit to skim/explore), <https://coloredconventions.org/exhibits/>
-- Recommended: Miriam Posner and Marika Cifor, “Generative Tensions: Building a Digital Project on Early African American Race Film,” *American Quarterly* (2018)
+- Miriam Posner and Marika Cifor, “Generative Tensions: Building a Digital Project on Early African American Race Film,” *American Quarterly* (2018)
     - Familiarize yourself with the Race Film Database, <https://zenodo.org/records/160585#.YcHs8SxOmLc>
 
 ## Week 9: Encounters with Digital Archives
