@@ -153,6 +153,7 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 - Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜”, *FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency* (March 2021)
 - Kate Crawford and Trevor Paglen, “Excavating AI”, <https://excavating.ai/>
 - Minh Hua and Rita Raley, “How to Do Things with Deep Learning Code,” *Digital Humanities Quarterly* 17.2 (2023), <http://www.digitalhumanities.org/dhq/vol/17/2/000684/000684.html>
+- Familiarize yourself with the [AI for Humanists project](https://www.aiforhumanists.com/){:target="_blank"}, especially the [Code Tutorials](https://www.aiforhumanists.com/tutorials/){:target="_blank"}
 
 ## Week 15: Presentations
 ### Wednesday, May 1
