@@ -6,7 +6,7 @@ nav_order: 5
 # Final Project
 ## Due:
 -   Abstract: Fri, April 12
--   ~10 minute presentation of final project in progress: Wed, May 5
+-   10-15 minute presentation of final project in progress: Wed, May 5
 -   Proof-of-concept dataset, codebook, and data paper: Tuesday, May 14
 
 Your final project in this class is a scholarly dataset and a data paper describing and contextualizing that dataset. You may work with other members of the class to complete the final project. If working with others, your team will turn in 1 copy of your proof-of-concept dataset (i.e., you don't each have to turn it in to me). You will also have a choice about how you would like to write your data paper: each member of your team may write their own, or, alternatively, you may turn in a collaboratively written (probably longer) data paper (or some combination of these two options). If you opt to collaborate with others on the final project, it will be important for your team to discuss with me how you plan to organize your labor so that all members contribute equally to the final product.
@@ -43,7 +43,7 @@ When you turn in your dataset, you should also turn in a codebook, or documentat
 ## Presenting your Dataset in Progress
 Our class period on Wednesday, May 1 will be devoted to quick presentations of your datasets in progress. In these presentations, you should describe your dataset (including the kind of data it contains, its boundaries/scope, and its metadata fields) and contextualize this dataset in relation to other existing scholarly datasets or archives, the questions it allows researchers to answer, gaps in existing fields, etc. In brief, your presentation should answer the following 3 questions: 1) What is this dataset?; 2) How are you collecting and organizing it?; 3) Why is it significant?
 
-If you are working on your final project individually, your presentation should be about 10 minutes long (I will warn you at 10 minutes and cut you off after 12 minutes). If you are working on your final project with others, talk to me in advance about the length of your presentation and its content, as team presentations may need more time.
+If you are working on your final project individually, your presentation should be somewhere between 10-15 minutes. If you are working on your final project with others, talk to me in advance about the length of your presentation and its content, as team presentations may need more time.
 
 ## Writing your Data Paper
 After collecting your dataset, you will write a \~2500-3000-word data paper describing and contextualizing your dataset. You may organize your data paper how you choose, but it should contain the following elements:
