@@ -7,7 +7,7 @@ nav_order: 5
 ## Due:
 -   Abstract: Fri, April 12
 -   ~10 minute presentation of final project in progress: Wed, May 5
--   Proof-of-concept dataset, codebook, and data paper: TBA (according to final exams schedule)
+-   Proof-of-concept dataset, codebook, and data paper: Tuesday, May 14
 
 Your final project in this class is a scholarly dataset and a data paper describing and contextualizing that dataset. You may work with other members of the class to complete the final project. If working with others, your team will turn in 1 copy of your proof-of-concept dataset (i.e., you don't each have to turn it in to me). You will also have a choice about how you would like to write your data paper: each member of your team may write their own, or, alternatively, you may turn in a collaboratively written (probably longer) data paper (or some combination of these two options). If you opt to collaborate with others on the final project, it will be important for your team to discuss with me how you plan to organize your labor so that all members contribute equally to the final product.
 

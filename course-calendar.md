@@ -159,4 +159,4 @@ Wednesday, February 14, 12-3 pm, Olin Library 107, <https://www.library.cornell.
 ### Wednesday, May 1
 - Presentations of final projects in progress
 
-## Final project due according to final exam schedule, TBA
+## Final project due Tuesday, May 14
